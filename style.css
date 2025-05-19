@@ -21,7 +21,7 @@
 
 /* spacing 
 desktop = 4.8rem */
-.glow-on-hover {
+/* .glow-on-hover {
     width: 220px;
     height: 50px;
     border: none;
@@ -80,7 +80,7 @@ desktop = 4.8rem */
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
-
+ */
 html {
   font-size: 62.5%;
   font-family: "Work Sans", sans-serif;
